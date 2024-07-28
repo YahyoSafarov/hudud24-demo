@@ -1,0 +1,9 @@
+.region_hv:hover{
+    background-color: #F4F4F4 !important;
+    transition: all .5s ease;
+    color: black !important;
+}
+
+.red-filter {
+    filter: brightness(0) saturate(100%) invert(22%) sepia(91%) saturate(5312%) hue-rotate(355deg) brightness(97%) contrast(119%);
+}

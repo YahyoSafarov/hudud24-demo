@@ -1,0 +1,45 @@
+
+
+@media (max-width:1300px) {
+    .nav-div{
+        display: none !important;
+    }
+    .nav2-li{
+        font-size: 15px;
+    }
+}
+
+@media (max-width:1023px) {
+    .people{
+        display: none;
+    }
+    #nav-icon{
+      display: none;
+    }
+}
+
+@media (max-width:550px) {
+    .text-toshkent{
+        width: 70px;
+        text-align: center;
+       line-height: 13px !important;
+
+    }
+    .text-down{
+       position: absolute;
+       top: 21px;
+       left: 120px;
+    }
+    .media-img{
+        width: 130px !important;
+    }
+}
+@media (max-width:430px) {
+
+    .text-down{
+       position: absolute;
+       top: 21px;
+       left: 115px;
+    }
+
+}

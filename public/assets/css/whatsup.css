@@ -1,0 +1,72 @@
+.info {
+
+
+  opacity: 0px;
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  box-sizing: border-box;
+  /* margin: auto; */
+  .info-1 {
+    width: 100%;
+    height: 518px;
+
+    display: flex;
+    align-items: center;
+    .card {
+      width: 300px;
+      height: 160px;
+      img {
+        width: 100%;
+        height: 100%;
+      }
+      cursor: pointer;
+
+      opacity: 0px;
+    }
+    /* background-color: red; */
+    /* justify-content: center; */
+    gap: 10px;
+
+    .org {
+      width: 902px;
+      height: 518px;
+      img {
+        width: 100%;
+        height: 100%;
+      }
+    }
+    .org-2 {
+      width: 308px;
+      /* background-color: red; */
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      flex-direction: column;
+      margin-right: 30px;
+      gap: 16px;
+    }
+  }
+  .info-2 {
+    width: 100%;
+    /* background-color: red; */
+    height: 187px;
+    .card {
+      /* width: 300px; */
+      height: 160px;
+      img {
+        width: 100%;
+        height: 100%;
+      }
+      cursor: pointer;
+
+      opacity: 0px;
+    }
+
+    display: flex;
+    align-items: center;
+    /* justify-content: space-evenly; */
+    gap: 25px;
+  }
+}

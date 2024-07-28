@@ -1,0 +1,7 @@
+.banner {
+  background-image: url("/assets/images/bg-hudud-gradient.jpeg");
+  width: 100%;
+  height: 290px;
+  background-position: center;
+  background-size: cover;
+}
